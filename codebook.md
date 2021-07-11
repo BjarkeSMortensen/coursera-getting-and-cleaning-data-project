@@ -11,16 +11,23 @@ All transformations was done using the packages from tidyverse.
 # Variables in step_5_data_set.csv
 
 "subject" - the subject who took part in the study
+
 "activity" - what activity the subject did when the measurement was taken
 
 The following variables are all in the dataset, but is explained in the following chapter.
 
 "fBodyAcc-mean()-X"
+
 "fBodyAcc-mean()-Y"
+
 "fBodyAcc-mean()-Z"
+
 "fBodyAcc-std()-X"
+
 "fBodyAcc-std()-Y"
+
 "fBodyAcc-std()-Z"
+
 "fBodyAccJerk-mean()-X"
 "fBodyAccJerk-mean()-Y"
 "fBodyAccJerk-mean()-Z"
